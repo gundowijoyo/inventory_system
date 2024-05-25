@@ -27,5 +27,28 @@ Pastikan Anda telah menginstal Ruby di sistem Anda. Anda dapat mengunduh dan men
 
 1. **Clone repository ini:**
    ```sh
-   git clone https://github.com/username/inventory-system.git
+   git clone https://github.com/guns-joy/inventory_system.git
+   ```
+2. **Masuk direktori**
+   ```sh
    cd inventory-system
+   ```
+3. **Jalankan program**
+```sh
+ruby inventory_system.rb
+```
+
+## Preview Menu 
+
+<pre>
+Sistem Inventaris Barang
+1. Tambah Barang
+2. Hapus Barang
+3. Update Stok Barang
+4. Catat Barang Masuk
+5. Catat Barang Keluar
+6. Laporan Stok Barang
+7. Keluar
+Masukkan pilihan:   
+</pre>
+
